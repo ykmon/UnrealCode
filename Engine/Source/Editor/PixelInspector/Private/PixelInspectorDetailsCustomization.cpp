@@ -257,7 +257,7 @@ void FPixelInspectorDetailsCustomization::CustomizeDetails(IDetailLayoutBuilder&
 			DetailBuilder.HideProperty(ClothProp);
 		}
 		break;
-		case MSM_Toon_01:
+		case MSM_CUSTOMTOON:
 			{
 				
 			}
